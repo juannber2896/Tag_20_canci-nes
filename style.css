@@ -1,0 +1,7 @@
+.titulo1{
+    background-color: blue;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'Noto Nastaliq Urdu', serif;
+}
