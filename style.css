@@ -1,6 +1,6 @@
 .titulo1{
-    background-color: blue;
-    color: white;
+    background-color: rgb(91, 216, 149);
+    color: rgb(216, 87, 87);
     display: flex;
     justify-content: center;
     font-family: 'Noto Nastaliq Urdu', serif;
@@ -13,4 +13,19 @@
 
 .titulo3{
     font-family: 'Noto Sans KR', sans-serif;
+}
+
+body{
+    background-image: url(http://olegif.com/bin/gifs/00/74/20.gif);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+
+.boton{
+    background-color: brown;
 }
